@@ -31,7 +31,3 @@ pip install -r requirements.txt
 ```bash
 pyinstaller -F -w test.py
 ```
-
-## 라이선스
-
-MIT 라이선스 
