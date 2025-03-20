@@ -1,0 +1,3 @@
+reportlab==4.1.0
+PyMuPDF==1.23.26
+PyQt5==5.15.10 
