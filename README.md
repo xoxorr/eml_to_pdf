@@ -26,7 +26,7 @@
 pip install -r requirements.txt
 ```
 
-### 실행 파일 생성 (개발자용)
+### 실행 파일 생성
 
 ```bash
 pyinstaller -F -w test.py
